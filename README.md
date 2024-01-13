@@ -45,4 +45,17 @@ This project is an E-Commerce API that provides endpoints for managing products,
 
    - **Delete Product:** `DELETE http://localhost:7000/delete/:id`
 
+## Interacting with the API 🤖
+
+Use Postman or any API testing tool.
+
+### Postman Collection
+
+Download the Collection from here [https://drive.google.com/file/d/1nc1kYaBawqoIi8KeJgKxpnk3ZDoY47iF/view?usp=sharing].
+
+## Assumptions 🤔
+
+- MongoDB is installed and running.
+- Jest and Supertest are used for testing.
+
 Feel free to explore and enhance the functionality as needed for your project!
